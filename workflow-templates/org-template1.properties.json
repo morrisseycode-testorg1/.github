@@ -2,5 +2,5 @@
     "name": "Org Template1 Workflow",
     "description": "Org Template1 starter workflow.",
     "iconName": "octicon organization",
-    "categories": ["Continuous integration", "C#"]
+    "categories": ["continuous integration", "deployment", "C#"]
 }
